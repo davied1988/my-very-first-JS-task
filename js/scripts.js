@@ -4,4 +4,4 @@ var name = prompt('Enter your name');
 alert('Hello, ' + name);
 console.log('Hello, ' + name);
 
-//cooment added for pull request
+//comment added for pull request
